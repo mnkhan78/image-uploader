@@ -20,3 +20,4 @@ This project is a simple and intuitive image uploader built with React. It allow
    ```bash
    git clone https://github.com/your-username/image-uploader-react.git
    cd image-uploader-react
+   npm run dev
